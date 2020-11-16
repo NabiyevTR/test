@@ -47,6 +47,12 @@ public class MyGame extends ApplicationAdapter {
 	@Override
 	public void dispose () {
 		batch.dispose();
+<<<<<<< dev-un:core/src/ru/ntr/study/MyGame.java
 		atlas.dispose();
+=======
+		img.dispose();
+
+		//some comments
+>>>>>>> add  some comments:core/src/ru/ntr/study/testProject.java
 	}
 }
