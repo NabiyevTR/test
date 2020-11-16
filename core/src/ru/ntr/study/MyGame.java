@@ -53,5 +53,7 @@ public class MyGame extends ApplicationAdapter {
 
 		//some comments
 
+		//d;lgkd;lfkg;ldfgf
+
 	}
 }
